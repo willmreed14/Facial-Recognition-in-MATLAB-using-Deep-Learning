@@ -1,5 +1,6 @@
 # Facial Recognition in MATLAB using Deep Learning
 William Reed's Final Project - CAP 4401 Digital Image Processing
+[Full Project Report](https://github.com/willmreed14/Facial-Recognition-in-MATLAB-using-Deep-Learning/blob/main/Reed_Final_Report_PDF.pdf)
 
 ## How to Use
 1. Download and unzip the project folder either from this repo or from the canvas submission.
